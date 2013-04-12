@@ -1,0 +1,38 @@
+Breakout v0.1 for Fargo II
+by Joe Wingbermuehle
+19981114
+
+>Libraries
+This program requires flib, gray4lib, and hexlib.
+
+>Installation
+You must have Fargo II installed on your calculator to run this
+program. I have created it and tested on a TI-92 version 1.11.
+
+>Description
+This is a TI-92 Fargo II game; Breakout! The object of Breakout is to
+break all the bricks in a level by bouncing the ball off of them. You
+must prevent the ball from hitting the ground with the paddle while
+trying to aim at the bricks as well. When you hit a brick, sometimes
+a falling block will fall out of it. Some of these falling blocks do
+good things and some of them do not. You will soon figure out what
+each does.
+This program is not yet finished. I have many more features I would
+like to add and fix. It shound not crash at least...
+
+>Keys
+Use the right/left arrow keys to move the paddle.
+[F1] starts the ball in motion.
+[MODE] pauses the game and shuts off the calculator.
+[(backspace)] takes away one life and puts the ball on the paddle.
+Use the keyboard to enter your intials if you get a high score.
+
+>History
+Version 0.1 <> 19981114
+	Size: 4382 bytes
+	-First release!
+	-Many features to be added.
+	-Only six levels.
+
+Joe Wingbermuehle
+http://joewing.net
