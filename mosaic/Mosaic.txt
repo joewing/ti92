@@ -1,0 +1,47 @@
++-------------------------------------------------------+
+|		      Mosaic v1.0b3			|
+|		   by Joe Wingbermuehle			|
+|			3-28-1997			|
++-------------------------------------------------------+
+
+Requirements:
+	-Fargo
+	-flib
+	-romlib
+	(-Mosaic.h for assembly)
+
+To Play:
+	The object of the game is to put all the tiles in order so 
+	they look like this:
+		+---+---+---+
+		| 1 | 2 | 3 |
+		+---+---+---+
+		| 4 | 5 | 6 |
+		+---+---+---+
+		| 7 | 8 |   |
+		+---+---+---+
+	You move the tiles by pressing the number pad key that 
+	aligns to the number you want to move.  You can only 
+	move a number if the empty box is directly left, 
+	right, above, or below the number.
+	Note: ESC can always be used to return to the main 
+	menu (Exit if already there).
+
+Version info:
+	-v1.0b1 (3-26-1997) first playable beta version.
+	-v1.0b2	(3-27-1997) removed 0 from empty space, made it so 
+		the game no longer clears the screen after every 
+		move, made the code a lot more compact (faster).
+	-v1.0b3 (3-28-1997) added a few graphics, made the program a 
+		lot smaller and faster, added a custom macro.
+
+Changes to be made:
+	-add better graphics
+	-add move count
+	-add lowest move Hall of Fame (best 3)
+
+Know Bugs:
+	-None :)
+
+Joe Wingbermuehle
+http://joewing.net
