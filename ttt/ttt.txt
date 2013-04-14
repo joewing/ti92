@@ -1,0 +1,24 @@
++---------------------------------------------------------------+
+|			 Tic-Tac-Toe v1.0			|
+|		       by Joe Wingbermuehle			|
+|			   3-28-1997				|
++---------------------------------------------------------------+
+To Play:
+	Use the number keys to mark a space (the keys line up to the spaces).
+
+Requirements to run:
+	-Fargo
+	-flib
+	-romlib
+
+Requirements to assemble:
+	-ttt.h
+
+Versions:
+	-v1.0 (3-28-1997) first release
+
+Changes to be made:
+	-make 1 player game harder
+
+Joe Wingbermuehle
+http://joewing.net
